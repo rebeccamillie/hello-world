@@ -1,2 +1,3 @@
 # hello-world
-week2 CFG homework
+
+Hi! I'm Rebecca, I'm an art student who is attempting to figure out coding.
